@@ -1,0 +1,8 @@
+id	int(11)	NO	PRI		auto_increment
+lname	varchar(255)	NO	UNI		
+addr	text	NO			
+pname	varchar(255)	NO	UNI		
+image_url	varchar(255)	NO			
+phno	varchar(255)	NO	UNI		
+vc	int(11)	YES			
+created_at	timestamp	NO		CURRENT_TIMESTAMP	
