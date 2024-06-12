@@ -23,6 +23,7 @@ You can find more details about the Online Voting System project by exploring th
 &rarr;Data Flow Diagram (DFD): Shows how data flows through the system, from input to processing and output.</br>
 &rarr;Class Diagram: Provides an overview of the classes and their relationships in the system.</br>
 &rarr;Object Diagram: Illustrates specific instances of classes and their relationships at a particular point in time.</br>
+&rarr;Use Case Diagram: Describes the interactions between users (actors) and the system, detailing the system's functionality from a user's perspective.</br>
 &rarr;Code: The source code is available in the project repository.</br>
 
 ## Contact
