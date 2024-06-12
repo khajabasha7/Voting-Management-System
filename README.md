@@ -1,4 +1,4 @@
-# Online Voting System
+# Voting Management System (Online Voting System)
 
 ## Overview
 The Online Voting System is a web-based application designed to modernize the traditional voting process. By utilizing modern web technologies, this system enables voters to cast their ballots online, significantly improving accessibility and convenience.
